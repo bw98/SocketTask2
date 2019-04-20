@@ -1,0 +1,60 @@
+1 Greetings
+2 Expression In Class
+3 Identifying Objects
+4 About Belongings
+5 Identifying People
+6 About Introduction
+7 Year, Month And Day
+8 Talking About Objects
+9 Talking About Time
+10 About Dates
+11 About Visits
+12 About Language
+13 Talking About Activities
+14 About Age
+15 Talking About Daily Activities
+16 Talking About Yesterday
+17 Talking With Friends
+18 Talking About The Past
+19 Asking About The Address
+20 Asking Questions
+21 Measuring And Comparing
+22 Asking For Help
+23 Asking Directions
+24 About Marriage
+25 Talking About Neighbors And Friends
+26 Planning The Future
+27 Talking About The Weather
+28 About Sickness
+29 Talking About Habits
+30 Asking For Other's Opinions
+31 Making Plans
+32 About Decisions
+33 Traveling
+34 About Shopping
+35 In The Restaurant
+36 About Evening Entertainment
+37 Appointments
+38 Seeing A Doctor
+39 Making A Phonecall
+40 About Mail
+41 Talking About Feelings
+42 Looking For A House
+43 Talking About Dressing
+44 Expressing Different Opinions
+45 About Things In The future
+46 Things That Might Have Happened
+47 Talking About Likes And Dislikes
+48 Putting Forward Your Own Opinions
+49 help
+50 Getting Ready For A Journey
+51 Countries And Nationalities
+52 Geography And Land Features
+53 School And Education
+54 About Jobs
+55 Farms And Factories
+56 About Hobbies
+57 Recreational Activities
+58 About Newspapers And Magazines
+59 Radio And TV
+60 About Music And Literature
